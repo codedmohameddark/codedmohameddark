@@ -7,4 +7,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white&style=ShieldStyle)](https://www.linkedin.com/in/codedmohamed)
 
 ## Superpowers ⚡
-![My Skills](https://skillicons.dev/icons?i=html)
+![My Skills](https://skillicons.dev/icons?i=html,css)
